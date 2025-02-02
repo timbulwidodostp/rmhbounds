@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rmhbounds': Refined Mantel-Haenszel bounds to check sensitivity of estimated average treatment effects on the treated Use rmhbounds With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rmhbounds.ado
+f rmhbounds.sthlp
