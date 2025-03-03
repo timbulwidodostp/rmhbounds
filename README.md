@@ -3,6 +3,8 @@ Refined Mantel-Haenszel bounds to check sensitivity of estimated average treatme
 
 Refine mhbounds to remove the cap on the number of strata and replace the large sample approximation for E and V with exact moments Use rmhbounds With STATA 18
 
+https://www.youtube.com/watch?v=c9vzbEZfHI4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
